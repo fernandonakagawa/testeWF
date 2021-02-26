@@ -8,6 +8,8 @@ namespace Teste
         {
             int x = 10;
             Console.WriteLine(x*2);
+            int y = 20;
+            Console.WriteLine(y * 2);
         }
     }
 }
