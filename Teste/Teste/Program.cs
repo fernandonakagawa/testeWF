@@ -6,7 +6,8 @@ namespace Teste
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
+            int x = 10;
+            Console.WriteLine(x);
         }
     }
 }
