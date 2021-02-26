@@ -7,7 +7,7 @@ namespace Teste
         static void Main(string[] args)
         {
             int x = 10;
-            Console.WriteLine(x);
+            Console.WriteLine(x*2);
         }
     }
 }
